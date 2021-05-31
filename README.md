@@ -1,1 +1,1 @@
-
+I've also imported a library which can help to evaluate mathematical equations and I did String Manipulation between the inputs. This may not be the best workaround in this kind of project but I did it this way because this is what I've learned so far. 
